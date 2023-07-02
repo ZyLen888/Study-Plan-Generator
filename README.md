@@ -3,8 +3,8 @@
 Inspired by the official OpenAI Project: [OpenAI API quickstart](https://github.com/openai/openai-quickstart-node) 
 
 ## 🧠 Thought
-I always wondered about how would someone start to learn about a topic of their interest? What is their plan? 
-Can I grasp an overview or an idea about a topic within 7 days? 
+I always wondered about how would someone start to learn about a topic of their interest? What is their plan?  
+Can I grasp an overview or an idea about a topic within 7 days?  
 With this mindset, I embark on the journey of building a tool for this goal: Generate a study plan to help people learn ANYTHING in a week!
 
 ## 💪 Action
@@ -155,7 +155,7 @@ Actions:
 
 ## 👀 See this in action 
 
-💰 Deployment will cost some money, as well as I had a concern about my OpenAI API being abused, so before I found a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below.
+💰 Deployment will cost some money, as well as I had a concern about my OpenAI API being abused, so before I found a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below to install it on your local machine.
 
 1. Clone the repository to your local machine and navigate to the root directory.
 2. There are two folders in the root directory: client and server. Each folder has its own package.json file and node_modules folder.
