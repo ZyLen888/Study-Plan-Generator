@@ -155,7 +155,7 @@ Actions:
 
 ## 👀 See this in action 
 
-💰 Deployment will cost some money, as well as I had a concern about my OpenAI API being abused, so before I found a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below to install it on your local machine.
+💰 Deployment will cost some money, as well as I had a concern about my OpenAI API being abused, so before I find a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below to install it on your local machine.
 
 1. Clone the repository to your local machine and navigate to the root directory.
 2. There are two folders in the root directory: client and server. Each folder has its own package.json file and node_modules folder.
