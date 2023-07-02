@@ -26,7 +26,7 @@
   padding-top: 60px;
 }
 .main .icon {
-  width: 34px;
+  width: 80px;
 }
 .main h3 {
   font-size: 32px;
@@ -38,7 +38,7 @@
 .main form {
   display: flex;
   flex-direction: column;
-  width: 320px;
+  width: 600px;
 }
 .main input[type="text"] {
   padding: 12px 16px;
