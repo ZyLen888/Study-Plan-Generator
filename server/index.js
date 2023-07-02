@@ -17,6 +17,7 @@ app.post("/generate", async (req, res) => {
   const { planDesc } = req.body;
   try {
     const studyPlan = await generate(planDesc);
+    console.log("Study plan generated successfully for " + planDesc);
     res.json({ studyPlan });
   } catch (error) {
     console.error(error);
