@@ -4,12 +4,14 @@ Inspired by the official OpenAI Project: [OpenAI API quickstart](https://github.
 
 ## 🧠 Thought
 I always wondered about how would someone start to learn about a topic of their interest? What is their plan? 
+Can I grasp an overview or an idea about a topic within 7 days? 
+With this mindset, I embark on the journey of building a tool for this goal: Generate a study plan to help people learn ANYTHING in a week!
 
 ## 💪 Action
-Leveraging the powerful OpenAI, it will be easier than ever to create a comprehensive study plan based on a topic of interest! 
+Leveraging the powerful OpenAI, creating a comprehensive study plan based on a topic of interest will be easier than ever! 
 
 ## 🛠  Technologies
-The front-end is built with React, and the back-end is built with Node.js and Express.
+The front end is built with React, and the back end is built with Node.js and Express.
 
 ## ⭐️  Results
 
