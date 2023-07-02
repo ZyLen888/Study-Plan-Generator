@@ -6,12 +6,17 @@ import { useState } from "react";
 function App() {
   const [planDesc, setPlanDesc] = useState("");
 
+  const onSubmit = (e) => {
+    e.preventDefault();
+    console.log("form submitted!", planDesc);
+  };
+
   return (
     <main className={styles.main}>
       <img src={planlogo} alt="Plan logo" className={styles.icon} />
       <h3>✨ Generate a Study Plan based on any topic given! ✨</h3>
 
-      <form>
+      <form onSubmit={onSubmit}>
         <input
           type="text"
           name="plan-description"
